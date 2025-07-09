@@ -1,0 +1,57 @@
+////URLL-version=3;
+//// SNU_Evidence_Locker_REPOLIST.urll
+//// https://github.com/seanpm2001/URLL-Specification
+//// A list of all SNU Evidence Locker project repositories by @seanpm2001
+//// As of 2025, Tuesday, July 8th
+
+//// ----------------------------------------------------- \\\\
+//// SNU Evidence Locker Project (3)
+//// ----------------------------------------------------- \\\\
+
+//// SNU 2D Evidence Locker Core (1)
+
+https://github.com/seanpm2001/SNU_2D_EvidenceLocker
+
+//// SNU 2D Evidence Locker Documentation core (0)
+
+//// Coming soon
+
+//// SNU Evidence Locker: Add to Evidence Locker (2)
+
+https://github.com/seanpm2001/SNU_EvidenceLocker_AddToEvidenceLocker
+https://github.com/seanpm2001/SNU_EvidenceLocker_AddToEvidenceLocker_Docs
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (SNU Evidence Locker): 3
+//// 1+0+2=3
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// See also (2)
+
+//// SNU CSAM-K (1)
+//// A tool for detecting child sexual abuse material, which should be added to the evidence locker
+
+https://github.com/seanpm2001/SNU_CSAM-K
+
+//// SNU Core (1)
+//// The core SNU module
+
+https://github.com/seanpm2001/SNU
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (See also): 2
+//// 1+1=2
+//// ----------------------------------------------------- \\\\
+//// Total repo count: 5
+//// 3+2=5
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// File info
+//// File type: URLL v3 list file (*.urll)
+//// File version: 1 (2025, Tuesday, July 8th at 07:35 pm PST)
+//// Line count (including blank lines and compiler line): 58
+//// ----------------------------------------------------- \\\\
+
+//// End of file
