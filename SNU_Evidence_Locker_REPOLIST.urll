@@ -2,15 +2,16 @@
 //// SNU_Evidence_Locker_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU Evidence Locker project repositories by @seanpm2001
-//// As of 2025, Tuesday, July 8th
+//// As of 2025, Thursday, August 7th
 
 //// ----------------------------------------------------- \\\\
-//// SNU Evidence Locker Project (3)
+//// SNU Evidence Locker Project (4)
 //// ----------------------------------------------------- \\\\
 
-//// SNU 2D Evidence Locker Core (1)
+//// SNU 2D Evidence Locker Core (2)
 
 https://github.com/seanpm2001/SNU_2D_EvidenceLocker
+https://github.com/seanpm2001/SNU_2D_EvidenceLocker_Docs
 
 //// SNU 2D Evidence Locker Documentation core (0)
 
@@ -22,8 +23,8 @@ https://github.com/seanpm2001/SNU_EvidenceLocker_AddToEvidenceLocker
 https://github.com/seanpm2001/SNU_EvidenceLocker_AddToEvidenceLocker_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (SNU Evidence Locker): 3
-//// 1+0+2=3
+//// Repo count (SNU Evidence Locker): 4
+//// 2+0+2=4
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -43,15 +44,15 @@ https://github.com/seanpm2001/SNU
 //// Repo count (See also): 2
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 5
-//// 3+2=5
+//// Total repo count: 6
+//// 4+2=6
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2025, Tuesday, July 8th at 07:35 pm PST)
-//// Line count (including blank lines and compiler line): 58
+//// File version: 2 (2025, Thursday, August 7th at 09:05 pm PST)
+//// Line count (including blank lines and compiler line): 59
 //// ----------------------------------------------------- \\\\
 
 //// End of file
