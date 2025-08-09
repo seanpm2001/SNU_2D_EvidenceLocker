@@ -1,0 +1,1 @@
+The SNU 2D Evidence Locker module, used to store illegal content uploaded by users. You will need to gain high trust with the main SNU distribution to be able to use this module legally. [Click/tap here to learn how to build SNU](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
